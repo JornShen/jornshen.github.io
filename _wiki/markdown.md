@@ -14,14 +14,14 @@ keywords: Markdown
 ### 超链接
 
 ```
-[靠谱-ing](http://mazhuang.org)
+[靠谱-ing](http://jornshen.cn)
 
-<http://mazhuang.org>
+<http://jornshen.cn>
 ```
 
-[靠谱-ing](http://mazhuang.org)  
+[靠谱-ing](http://jornshen.cn)  
 
-<http://mazhuang.org>
+<http://jornshen.cn>
 
 ### 列表
 

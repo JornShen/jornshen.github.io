@@ -1,6 +1,6 @@
 # MonkeyHorse
 
-我的个人博客：<http://monkeyhorse.cn>，欢迎 Star 和 Fork。
+我的个人博客：<http://jornshen.cn>，欢迎 Star 和 Fork。
 
 ## 概览
 
@@ -15,7 +15,7 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](http://monkeyhorse.cn)**
+**[在线预览 &rarr;](http://jornshen.cn)**
 
 
 ## Fork 指南
@@ -71,7 +71,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](http://dongchuan.github.io) 和 [mzlogin](mzlogin.github.io)修改，感谢！
+本博客 fork 自　[uoor](http://monkeyhorse.cn), 其外观基于 [DONGChuan](http://dongchuan.github.io) 和 [mzlogin](mzlogin.github.io)修改，感谢他们！
 
 [1]: https://github.com/mzlogin/chinese-copywriting-guidelines
 [2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/

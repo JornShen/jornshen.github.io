@@ -10,7 +10,8 @@ permalink: /links/
 
 > God made relatives. Thank God we can choose our friends.
 
-* [美团点评技术团队](http://tech.meituan.com/)
-* [阿里技术沙龙](http://club.alibabatech.org/)
+* [dubbo官网](http://dubbo.io/)
+* [leetcode算法](https://leetcode.com/problemset/algorithms/)
+* [牛客网](https://www.nowcoder.com/)
 * [天池](https://tianchi.shuju.aliyun.com/)
-* [Nekoの喵窝](http://nekomiao.me/)
+* [jekyll官网](https://jekyllrb.com/)

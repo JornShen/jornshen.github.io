@@ -1,24 +1,28 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 写代码，解决问题
+keywords: canhui shen, 沈灿辉
 comments: true
 menu: 关于
 permalink: /about/
 ---
 
-我叫吴敏，口天吴，巧娜的敏。
+我叫沈灿辉，英文名: JornShen
 
-## 热爱
+## EDU
 
-* 生命
+*　undergraduate: computer science, XMU  ---(2014 ~ 2018)
 
+## Contact
 
-## 联系
-
-* GitHub：[@uoor](https://github.com/uoor)
+* GitHub：[@jornshen](https://github.com/jornshen)
 * 博客：[{{ site.title }}]({{ site.url }})
+
+## Motto
+
+* while (!dead) {study(); create();}
+* stady foolish, stady hungry !
 
 ## Skill Keywords
 
